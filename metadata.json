@@ -1,0 +1,6 @@
+{
+  "name": "Thymus Volunteer Hub",
+  "description": "Повноцінна цифрова екосистема волонтера The Thymus Foundation. Навчання, розвиток навичок, цифрова карта, проєкти, взаємодопомога та спільнота.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
